@@ -48,6 +48,10 @@ namespace Operations_on_file_names
                 }
                 return false;
             }
+            public void Info()
+            {
+                Console.WriteLine("Possible file types:");
+            }
             public void Info(string language)
             {
                 switch (language)
@@ -93,4 +97,4 @@ namespace Operations_on_file_names
     }
 }
 
-}
+

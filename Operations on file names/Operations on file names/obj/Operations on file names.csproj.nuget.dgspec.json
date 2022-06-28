@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Asus\\Desktop\\Operations onfile names\\Operations on file names\\Operations on file names\\Operations on file names.csproj": {}
+    "C:\\Users\\Asus\\Desktop\\Operations onfile names\\Operations-on-file-names\\Operations on file names\\Operations on file names\\Operations on file names.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Asus\\Desktop\\Operations onfile names\\Operations on file names\\Operations on file names\\Operations on file names.csproj": {
+    "C:\\Users\\Asus\\Desktop\\Operations onfile names\\Operations-on-file-names\\Operations on file names\\Operations on file names\\Operations on file names.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Asus\\Desktop\\Operations onfile names\\Operations on file names\\Operations on file names\\Operations on file names.csproj",
+        "projectUniqueName": "C:\\Users\\Asus\\Desktop\\Operations onfile names\\Operations-on-file-names\\Operations on file names\\Operations on file names\\Operations on file names.csproj",
         "projectName": "Operations on file names",
-        "projectPath": "C:\\Users\\Asus\\Desktop\\Operations onfile names\\Operations on file names\\Operations on file names\\Operations on file names.csproj",
+        "projectPath": "C:\\Users\\Asus\\Desktop\\Operations onfile names\\Operations-on-file-names\\Operations on file names\\Operations on file names\\Operations on file names.csproj",
         "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Asus\\Desktop\\Operations onfile names\\Operations on file names\\Operations on file names\\obj\\",
+        "outputPath": "C:\\Users\\Asus\\Desktop\\Operations onfile names\\Operations-on-file-names\\Operations on file names\\Operations on file names\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

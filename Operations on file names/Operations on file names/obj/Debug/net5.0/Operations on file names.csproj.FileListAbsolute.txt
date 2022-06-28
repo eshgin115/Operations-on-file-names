@@ -1,0 +1,16 @@
+C:\Users\Asus\Desktop\Operations onfile names\Operations-on-file-names\Operations on file names\Operations on file names\obj\Debug\net5.0\Operations on file names.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\Operations onfile names\Operations-on-file-names\Operations on file names\Operations on file names\obj\Debug\net5.0\Operations on file names.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\Operations onfile names\Operations-on-file-names\Operations on file names\Operations on file names\obj\Debug\net5.0\Operations on file names.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Operations onfile names\Operations-on-file-names\Operations on file names\Operations on file names\obj\Debug\net5.0\Operations on file names.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Operations onfile names\Operations-on-file-names\Operations on file names\Operations on file names\obj\Debug\net5.0\Operations on file names.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Operations onfile names\Operations-on-file-names\Operations on file names\Operations on file names\bin\Debug\net5.0\Operations on file names.exe
+C:\Users\Asus\Desktop\Operations onfile names\Operations-on-file-names\Operations on file names\Operations on file names\bin\Debug\net5.0\Operations on file names.deps.json
+C:\Users\Asus\Desktop\Operations onfile names\Operations-on-file-names\Operations on file names\Operations on file names\bin\Debug\net5.0\Operations on file names.runtimeconfig.json
+C:\Users\Asus\Desktop\Operations onfile names\Operations-on-file-names\Operations on file names\Operations on file names\bin\Debug\net5.0\Operations on file names.runtimeconfig.dev.json
+C:\Users\Asus\Desktop\Operations onfile names\Operations-on-file-names\Operations on file names\Operations on file names\bin\Debug\net5.0\Operations on file names.dll
+C:\Users\Asus\Desktop\Operations onfile names\Operations-on-file-names\Operations on file names\Operations on file names\bin\Debug\net5.0\Operations on file names.pdb
+C:\Users\Asus\Desktop\Operations onfile names\Operations-on-file-names\Operations on file names\Operations on file names\obj\Debug\net5.0\Operations on file names.dll
+C:\Users\Asus\Desktop\Operations onfile names\Operations-on-file-names\Operations on file names\Operations on file names\obj\Debug\net5.0\refint\Operations on file names.dll
+C:\Users\Asus\Desktop\Operations onfile names\Operations-on-file-names\Operations on file names\Operations on file names\obj\Debug\net5.0\Operations on file names.pdb
+C:\Users\Asus\Desktop\Operations onfile names\Operations-on-file-names\Operations on file names\Operations on file names\obj\Debug\net5.0\Operations on file names.genruntimeconfig.cache
+C:\Users\Asus\Desktop\Operations onfile names\Operations-on-file-names\Operations on file names\Operations on file names\obj\Debug\net5.0\ref\Operations on file names.dll
